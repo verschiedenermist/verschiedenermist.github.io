@@ -33,7 +33,7 @@
 
 ```
 
-Для того, чтобы снова увидеть Бога перейдите по ссылке [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Для того, чтобы снова увидеть Бога перейдите по ссылке [Бог-отец и Бог-начальник](https://github.com/verschiedenermist/verschiedenermist.github.io/blob/main/%D0%B1%D0%BE%D0%B32.jpg).
 
 ### Jekyll Themes
 
