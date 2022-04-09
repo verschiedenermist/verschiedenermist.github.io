@@ -1,10 +1,12 @@
-## Добро пожаловать to GitHub Pages
+## Сегодня мы поговорим о Боге 
 
-You can use the [editor on GitHub](https://github.com/verschiedenermist/verschiedenermist.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[посмотреть на Бога](https://github.com/verschiedenermist/verschiedenermist.github.io/edit/main/README.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Если вы не верите в Бога, то просто посмотрите на него.
 
-Дальше куча странной информации на английском. Она прикольная, поэтому советую прочесть.
+Как говорил Эйнштейн: "Зло это просто отсутствие Бога. Оно похоже на темноту и холод — слово, созданное человеком чтобы описать отсутствие Бога. Бог не создавал зла. Зло это не вера или любовь, которые существуют как свет и тепло.
+Зло это результат отсутствия в сердце человека Божественной любви. Это вроде холода, который наступает, когда нет тепла, или вроде темноты, которая наступает, когда нет света."
+
 
 ### Markdown
 
