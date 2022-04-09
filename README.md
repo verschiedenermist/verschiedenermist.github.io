@@ -8,9 +8,9 @@
 Зло это результат отсутствия в сердце человека Божественной любви. Это вроде холода, который наступает, когда нет тепла, или вроде темноты, которая наступает, когда нет света."
 
 
-### Markdown
+### Что думает Бог о программировании?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Писать программы - это православно. Это естественное стремление изучить новое.
 
 ```markdown
 Syntax highlighted code block
